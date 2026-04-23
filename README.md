@@ -1,4 +1,5 @@
 Number Guessing Game (Python Tkinter)
+
 ==========Description==========
 
 This is a simple GUI-based Number Guessing Game built using Python and Tkinter.
@@ -6,6 +7,7 @@ This is a simple GUI-based Number Guessing Game built using Python and Tkinter.
 The program randomly selects a number between 1 and 100, and the player has 7 attempts to guess it correctly.
 
 ==========Features==========
+
 Graphical User Interface (GUI) using Tkinter
 
 Random number generation
@@ -63,6 +65,7 @@ Displays a warning if input is not a valid
 Prevents crashes from invalid input
 
 ===========Interface Overview==========
+
 Title: "I'm thinking of a number..."
 
 Input field for guesses
